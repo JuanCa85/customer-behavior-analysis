@@ -41,6 +41,7 @@ Analizar el comportamiento de los usuarios para detectar patrones clave y genera
 - Interpretación de resultados
 
 **Estructura del repositorio**
-├── customer_behavior_analysis.ipynb
-├── games.csv
+
+├── customer_behavior_analysis.ipynb   
+├── games.csv   
 └── README.md
