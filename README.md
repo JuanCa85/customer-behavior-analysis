@@ -1,4 +1,4 @@
-# Customer Behavior Analysis
+# Análisis del comportamiento del cliente
 
 ## Descripción del proyecto
 
